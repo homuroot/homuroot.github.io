@@ -5,7 +5,7 @@ description:        "关于生活、音乐、读书和其他."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
-background:         'assets/img/placeholder-big.jpg'
+background:         'assets/img/ocean-028.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             cn
 url:                https://homuroot.github.io
