@@ -12,5 +12,5 @@ comments: false
 
 <figure class="half">
     <img src="http://7xkdjw.com1.z0.glb.clouddn.com/ocean3.jpg">
-    <img src="http://7xkdjw.com1.z0.glb.clouddn.com/mountain.jpg">
+    <img src="http://7xkdjw.com1.z0.glb.clouddn.com/fuji.jpg">
 </figure>
