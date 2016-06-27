@@ -6,7 +6,7 @@ date: 2016-06-22
 comments: false
 ---
 
-#### <center>思绪像水，总是留不住。</center>
+<center>思绪像水，总是留不住。</center>
 <center>整理一些思维碎片，关于生活、音乐、图像、工作和其他。</center>
 
 
