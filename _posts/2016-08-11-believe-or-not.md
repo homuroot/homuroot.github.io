@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Believe or Not
-date: 2016-08-11 15:20
+date: 2016-08-11
 comments: false
+tags: shivers
 ---
 ##信与不信
 
